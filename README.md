@@ -8,3 +8,6 @@ on release it'll have
 -replays
 - battlepass
 everything
+
+
+not done yet at all
